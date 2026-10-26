@@ -91,7 +91,7 @@ CCORE-X86/
 
 ---
 
-# 6. Snapshots
+## 6. Snapshots
 
 * Snapshot 1
 * Snapshot 2
@@ -163,10 +163,7 @@ qemu-system-i386 -drive format=raw,file=ccore.img
 
 
 ---
-
-## 8
-
-. License
+## 8. License
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. Full terms are available in the `LICENSE` file.
 
