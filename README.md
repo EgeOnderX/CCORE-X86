@@ -166,8 +166,6 @@ qemu-system-i386 -drive format=raw,file=ccore.img
 
 ## 8
 
-https://github.com/user-attachments/assets/4536a8f9-02f8-4857-8c23-f6ab11d143d3
-
 . License
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. Full terms are available in the `LICENSE` file.
